@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jemi019
 - 👀 I’m interested in collecting raw data, processing, organizing, analysing and producing result
-- 🌱 I’m currently learning answers to certain question, identify trends and extract insight
+- 🌱 I’m currently learning answers to certain questions, identify trends and extract insight
 - 💞️ I’m looking to collaborate on realistic problems
 - 📫 How to reach me jemimau@yahoo.com
 - 😄 Pronouns: Not specified
