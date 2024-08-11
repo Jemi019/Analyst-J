@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jemi019
+- 👋 Hi, I’m @Analyst J
 - 👀 I’m interested in collecting raw data, processing, organizing, analysing and producing result
 - 🌱 I’m currently learning answers to certain questions, identify trends and extract insight
 - 💞️ I’m looking to collaborate on realistic problems
