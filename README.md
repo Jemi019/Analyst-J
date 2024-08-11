@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on realistic problems
 - 📫 How to reach me jemimau@yahoo.com
 - 😄 Pronouns: Not specified
-- ⚡ Fun fact: I code to uncode hide facts
+- ⚡ Fun fact: I code to uncode hidden facts
 
 <!---
 Jemi019/Jemi019 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
